@@ -1,0 +1,27 @@
+{
+  "name": "javascript-practices",
+  "version": "1.0.0",
+  "description": "Implement some concepts in JavaScript.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammedmaqbol/Javascript-Practices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammedmaqbol/Javascript-Practices/issues"
+  },
+  "homepage": "https://github.com/mohammedmaqbol/Javascript-Practices#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
